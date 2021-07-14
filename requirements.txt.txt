@@ -1,0 +1,10 @@
+django==2.2
+djangorestframework
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+gunicorn==20.0.4
+whitenoise==5.0.1
+social-auth-app-django
+psycopg2==2.8.5
+django_heroku
